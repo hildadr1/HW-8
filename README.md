@@ -20,3 +20,4 @@ I tested the code but doing version outputs and using a calculator to make sure 
 
 ADDITIONAL INFORMATION
 The C++ version is pretty much done. The C version was only missing two parts. The transpose and matrix multiplication. 
+Also i forgot to add comments since I was running out of time.
